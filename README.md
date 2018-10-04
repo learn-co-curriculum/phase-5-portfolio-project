@@ -1,4 +1,4 @@
-# Module 5
+# So You're About to Enter Mod 5
 
 Get hype. The next 2-3 weeks of your life are all about your final project. This is the capstone project that you’ll be showing off to demonstrate all the things that you’ve learned over the last few months. This is awesome.  Before we dive into what your project is going to be about, we need to establish some ground rules.
 
