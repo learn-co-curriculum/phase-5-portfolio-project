@@ -9,8 +9,9 @@ Get hype. The next 2-3 weeks of your life are all about your final project. This
 * You will complete your MVP by the date it is due
 * You will adhere to the project decisions made by leads/project managers
 * You will communicate issues with your project manager
-You will be courteous to your classmates, and work together to solve problems
-You will have properly researched and debugged before escalating to your project leads.
+* You will be courteous to your classmates, and work together to solve problems
+* You will have properly researched and debugged before escalating to your project leads.
+* You will not begin work on your project until you have pitched your MVP and been approved
 
 ## Final Project
 
