@@ -77,7 +77,8 @@ Day 5 will also be the first of your mandatory check-ins with your assigned proj
 **Day 3 - MVP Presentations**
 
 You will present your completed MVP to your project manager and a lead instructor. You should have all the functionality that you promised during your project proposal, as well as a plan of attack for the next week.
-Week 3 
+
+### Week 3 
 
 **Day 3 - Projects Complete**
 
