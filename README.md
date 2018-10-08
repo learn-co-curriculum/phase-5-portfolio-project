@@ -64,7 +64,7 @@ This is when you get to pitch whatever pie in the sky things you want. We’re n
 
 **Day 3 - Project Proposals**
 
-You will have two projects ready to pitch to a panel including a lead and your TCFs. You’ll have the models drawn out, a sketched out version of what your frontend will look like, and evidence that you’re able to use the APIs and libraries that you’re going to implement. You’ll also have a proposal for what your MVP will look like. You’re expected to have the MVP complete a week from this day. Together you and your instructors will determine the best project to move forward with.
+You will have your project ready to pitch to a panel including a lead and your TCFs. You’ll have the models drawn out, a sketched out version of what your frontend will look like, and evidence that you’re able to use the APIs and libraries that you’re going to implement. You’ll also have a proposal for what your MVP will look like. You’re expected to have the MVP complete a week from this day. Together you and your instructors will determine the best project to move forward with.
 
 **Day 5 - Postmortem**
 
