@@ -90,7 +90,8 @@ This is the day that you’ll be showing off your projects to the rest of the sc
 
 **Day 5 - Graduation**
 
-You made it! Today you get your final survey, a free bagel/muffin/coffee breakfast and you get to take part in the graduation ceremony. Get hype! Graduation will be over by noon, and you’ll be expected to clear out by 1:00 to make way for a brand new Mod 5 class.
+You made it! Today you get your final survey, a free bagel/muffin/coffee breakfast and you get to take part in the graduation ceremony. Get hype! Graduation will be over by noon. Because campus space is limited we do ask that you gather all of your
+belongings and clean up your workspace by 1:00pm so that the _incoming_ Mod 5 class will be able to settle into the space.
 
 ## Helpful Tools
 
