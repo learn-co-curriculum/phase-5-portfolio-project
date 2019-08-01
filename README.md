@@ -23,7 +23,7 @@ First thing first - the burning question: Are we required to use Redux and Auth 
 
 ## Project Requirements
 
-The listed requirements below are guidelines that should help you to determine what the complexity of your project should be. They are not hard and fast rules, and final project approval is up to your leads and TCFs, who will be acting as project managers.
+The listed requirements below are guidelines that should help you to determine what the complexity of your project should be. They are not hard and fast rules, and final project approval is up to your leads and SECs, who will be acting as project managers.
 
 ### Backend
 
@@ -60,11 +60,11 @@ For much of Mod 5, your time is your own. There will be a few lectures and other
 
 **Day 1 - Initial Project Pitches**
 
-This is when you get to pitch whatever pie in the sky things you want. We’re not yet worried about what your MVP is or whether your idea is practical - just come up with ideas. You won’t be starting on your project until Day 3, so think of this as your research and development phase. Learn Auth, learn Redux, learn how to use complex APIs and libraries. Your TCFs will give you an idea of what is and isn’t practical, and some guidance on the technologies you’re looking at.
+This is when you get to pitch whatever pie in the sky things you want. We’re not yet worried about what your MVP is or whether your idea is practical - just come up with ideas. You won’t be starting on your project until Day 3, so think of this as your research and development phase. Learn Auth, learn Redux, learn how to use complex APIs and libraries. Your SECs will give you an idea of what is and isn’t practical, and some guidance on the technologies you’re looking at.
 
 **Day 3 - Project Proposals**
 
-You will have your project ready to pitch to a panel including a lead and your TCFs. You’ll have the models drawn out, a sketched out version of what your frontend will look like, and evidence that you’re able to use the APIs and libraries that you’re going to implement. You’ll also have a proposal for what your MVP will look like. You’re expected to have the MVP complete a week from this day. Together you and your instructors will determine the best project to move forward with.
+You will have your project ready to pitch to a panel including a lead and your SECs. You’ll have the models drawn out, a sketched out version of what your frontend will look like, and evidence that you’re able to use the APIs and libraries that you’re going to implement. You’ll also have a proposal for what your MVP will look like. You’re expected to have the MVP complete a week from this day. Together you and your instructors will determine the best project to move forward with.
 
 **Day 5 - Postmortem**
 
@@ -101,9 +101,9 @@ belongings and clean up your workspace by 1:00pm so that the _incoming_ Mod 5 cl
 
 Just because you’re working solo doesn’t mean you don’t need to stay organized.  In fact, because this will be the most complex project you’ve made at Flatiron, you’ll need something to keep you organized.  We recommend Trello or a Github Project Board.  Use this to track what you’re doing and what you need to work on.  It’s also a great idea to keep track of bugs that you’re not going to immediately fix.
 
-**Pomdoro Timer**
+**Pomodoro Timer**
 
-If you don’t take breaks, you’ll end up hurting your eyes, getting an RSI or burning yourself out.  The Pomdoro Timer method lets you put in solid chunks of work while also giving you regular breaks.  We like Marinara Timer, since it’s nicely customizable. 
+If you don’t take breaks, you’ll end up hurting your eyes, getting an RSI or burning yourself out.  The Pomodoro Timer method lets you put in solid chunks of work while also giving you regular breaks.  We like Marinara Timer, since it’s nicely customizable. 
 
 ### Code Resources
 
