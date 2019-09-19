@@ -5,7 +5,7 @@ Get hype. The next 2-3 weeks of your life are all about your final project. This
 ## Behavioral Expectations
 
 * You will show up by 9:00 and leave no sooner than 6:00
-* You will actively participate in stand-ups, post-mortem, and check-ins
+* You will actively participate in stand-ups, retros, and check-ins
 * You will complete your MVP by the date it is due
 * You will adhere to the project decisions made by leads/project managers
 * You will communicate issues with your project manager
@@ -66,9 +66,9 @@ This is when you get to pitch whatever pie in the sky things you want. We’re n
 
 You will have your project ready to pitch to a panel including a lead and your TCFs. You’ll have the models drawn out, a sketched out version of what your frontend will look like, and evidence that you’re able to use the APIs and libraries that you’re going to implement. You’ll also have a proposal for what your MVP will look like. You’re expected to have the MVP complete a week from this day. Together you and your instructors will determine the best project to move forward with.
 
-**Day 5 - Postmortem**
+**Day 5 - Retro**
 
-In addition to doing stand-ups every morning, you’ll be taking part in a postmortem every Friday.  This will be the time to talk about what went right, what went wrong, what roadblocks you’re still up against and your plan of attack for getting over them.
+In addition to doing stand-ups every morning, you’ll be taking part in a retro every Friday.  This will be the time to talk about what went right, what went wrong, what roadblocks you’re still up against and your plan of attack for getting over them.
 
 Day 5 will also be the first of your mandatory check-ins with your assigned project manager.  You’ll have two of these leading up to your MVP presentation.  After that, office hours will be available to sign-up for, but will not be mandatory.
 
