@@ -1,4 +1,4 @@
-# So You're About to Enter Mod 5
+# So You're About to Enter Phase 5
 
 It is time. Your final project for this course. This is the capstone project that you’ll
 be showing off to demonstrate all the things that you’ve learned so far. This is awesome.  
